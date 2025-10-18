@@ -1,2 +1,1 @@
-# ACTIVACI-N-BOT
-Activar bot de telegram VEXTRULES
+#Xiter-Zone app and games modded
